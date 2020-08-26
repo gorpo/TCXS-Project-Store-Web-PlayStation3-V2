@@ -8,7 +8,7 @@
 <img src="https://i.imgur.com/3Gmp3Ze.jpg" width="100%"></img><br>
 
 
-- VERSAO COM JOGOS DE PLAYSTATION1 CORRIGIDOS PELO MSTEDZ<br<br>
+- VERSAO COM JOGOS DE PLAYSTATION1 CORRIGIDOS PELO MSTEDZ<br><br>
 
 
 
