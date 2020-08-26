@@ -7,6 +7,11 @@
 <h2 align="center">TCXS Project Store | PlayStation3 | HAN | HEN | CFW</h2>
 <img src="https://i.imgur.com/3Gmp3Ze.jpg" width="100%"></img><br>
 
+
+- VERSAO COM JOGOS DE PLAYSTATION1 CORRIGIDOS PELO MSTEDZ<br<br>
+
+
+
 - Toda e qualquer alteraçao deve ser informada no changelog, favor informar sempre no documento que estiver editando que id parou de usar para quem for atualizar a proxima vez saiba de que id começar, se possivel informe neste documento a id que parou para melhor visualização, mantenha um backup desde mesmo material no dropbox, versionando sempre sua versão passada.<br>
 - Fixes, patches e outros arquivos como o apk devem ficar em um branch separado neste git, manter apenas a versão MASTER intacta pronta para upload<br>
 - Os dados de banco de dados desta versão são da minha maquina local, para hospedar é necessário trocar usuario, senha e nome do banco de dados nas configurações PHP<br>
