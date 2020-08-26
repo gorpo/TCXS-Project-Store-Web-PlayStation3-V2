@@ -4,7 +4,7 @@
 [![Build](https://img.shields.io/badge/windows-7%208%2010-blue.svg)]()
 [![Build](https://img.shields.io/badge/Linux-Ubuntu%20Debian-orange.svg)]()
 [![Build](https://img.shields.io/badge/arquiterura-64bits-blue.svg)]()
-<h2 align="center">TCXS Project Store | PlayStation3 | HAN | HEN | CFW | V2</h2>
+<h2 align="center">TCXS Project Store | PlayStation3 | HAN | HEN | CFW</h2>
 <img src="https://i.imgur.com/3Gmp3Ze.jpg" width="100%"></img><br>
 
 - Toda e qualquer alteraçao deve ser informada no changelog, favor informar sempre no documento que estiver editando que id parou de usar para quem for atualizar a proxima vez saiba de que id começar, se possivel informe neste documento a id que parou para melhor visualização, mantenha um backup desde mesmo material no dropbox, versionando sempre sua versão passada.<br>
