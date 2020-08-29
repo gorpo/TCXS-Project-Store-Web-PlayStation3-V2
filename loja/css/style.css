@@ -11,6 +11,78 @@
 
 
 
+/* Dropdown Button */
+.dropbtn {
+
+  font-family: 'Share Tech Mono', sans-serif;
+  font-size: 16px;
+  background-color: #540303; /* Cor do botao cinza */
+  border: none;
+  color: white;
+  display: block;
+  margin-top: 1px;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;    
+  display: inline-block;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  margin-top: 2px;
+  display: none;
+  position: absolute;
+  min-width: 800px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  background-color: #101214; /* Cor do botao cinza */
+  
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  border: solid;
+  font-family: 'Share Tech Mono', sans-serif;
+  font-size: 16px;
+  color: red;
+  display: block;
+  margin-top: -1px;
+  text-align: center;
+  text-decoration: none;  
+  padding: 12px 16px;
+  border: none;
+  box-shadow: inset 0px 0px 10px rgba(0,0,0,0.5);
+ 
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #540303;
+  color: white;
+  border: none;
+  font-size: 18px;
+  box-shadow: 0px 3px 3px red;
+
+  } /* cinza  #101214 */
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {background-color: #fff;}
+
+
+
+
+
+
 .mensagem {
   color: #540303;
   background-color: #540303; 
@@ -116,22 +188,7 @@
   float: right;
 }
 
-/*define que todas as div serao caixinhas, com o tamanho de 250px e lado a lado (inline-block) */
-div.caixa_imagem {
-  width: 250px;
-  display: inline-block;
 
-}
-
-
-/* sistema de botoes com imagem dentro do botao | sem a necessidade do botao em baixo */
-button.caixa_imagem {
-  width: 250px;
-  display: block;
-  background-color: #101214; 
-  border: none;
-
-}
 
 
 .colunas_home {
