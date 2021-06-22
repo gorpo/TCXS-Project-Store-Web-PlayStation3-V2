@@ -7,8 +7,8 @@
 <!-- @Gorpo Orko - 2020 -->
 <?php
 define('HOST', 'localhost');
-define('USUARIO', 'u923273795_users');
-define('SENHA', 'Tcxsproject2020web');
-define('DB', 'u923273795_users');
+define('USUARIO', '');
+define('SENHA', '');
+define('DB', '');
 
 $conexao = mysqli_connect(HOST, USUARIO, SENHA, DB) or die ('Não foi possível conectar');
