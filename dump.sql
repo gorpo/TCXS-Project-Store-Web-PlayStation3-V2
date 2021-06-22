@@ -38,9 +38,7 @@ CREATE TABLE `usuarios` (
 --
 
 INSERT INTO `usuarios` (`id`, `usuario`, `senha`, `nome`, `data_cadastro`) VALUES
-(1, 'gorpo', 'corpo', 'Gorpo', '2500-01-11 19:42:12'),
-(2,'mitsuki', 'tcxsproject2020web', 'Mitsuki', '2500-09-07 15:06:19'),
-(3,'mste3dz', 'tcxsproject2020web', 'MsTe3dz', '2500-09-07 15:06:25');
+(1, 'gorpoder', 'clorpoxd', 'Gorpo', '2500-01-11 19:42:12');
 
 --
 -- Indexes for dumped tables
